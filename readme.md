@@ -1,4 +1,5 @@
-#README____
+#
+README
 ##Перед запуском следует:
 ____
 1. Установить прокси-сервер. В данном случае используется mitmproxy: https://docs.mitmproxy.org/stable/
